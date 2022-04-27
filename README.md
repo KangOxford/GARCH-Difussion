@@ -1,2 +1,2 @@
-# SecondOrderOptimization
-Conjugate gradient method on GPU
+# GARCH Difussion
+Option valuation formula for GARCH difussion models
