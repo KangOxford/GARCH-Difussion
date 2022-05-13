@@ -1,7 +1,7 @@
 # Quant Interview
 
 ## `Goldman Sachs`
-* Database: **SQL**, **MongoDB**,
+* Database: [**SQL**](https://www.w3schools.com/python/python_mysql_getstarted.asp), **MongoDB**,
 * Libraries: **XGB**, **LightGBM**, Tensor flow, Keras, **Pytorch**
 * DAGs: **Airflow**
 * Big Data: **PySpark**, Dask
