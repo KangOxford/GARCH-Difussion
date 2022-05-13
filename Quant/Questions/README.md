@@ -6,6 +6,6 @@
 ![1](static/3.png)
 
 
-### 02.Stack and Heap Memory
-![1](static/5.pic.png)
-![1](static/6.pic.png)
+### 02.Stack, Heap Memory and Deadlock
+![1](static/5.pic.jpg)
+![1](static/6.pic.jpg)
