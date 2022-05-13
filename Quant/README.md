@@ -2,6 +2,8 @@
 
 ## [`Refer to the Questions Here`](https://github.com/KangOxford/GARCH-Difussion/tree/main/Quant/Questions)
 ## `Goldman Sachs`
+**Commodities Trading**
+
 * Database: [**SQL**](https://www.w3schools.com/python/python_mysql_getstarted.asp), [**MongoDB**](https://www.runoob.com/mongodb/mongodb-tutorial.html),
 * Libraries: **XGB**, **LightGBM**, Tensor flow, Keras, **Pytorch**
 * DAGs: **Airflow**
