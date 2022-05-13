@@ -7,7 +7,7 @@
 * DAGs: **Airflow**
 * Big Data: **PySpark**, Dask
 * Qualification Skills:
-  -  Experience in retrieving and handling Big Data efficiently. (Rest APIs, Internal Databases, Scrapes)
+  -  Experience in retrieving and handling Big Data efficiently. ([Rest APIs](https://www.runoob.com/w3cnote/restful-architecture.html), Internal Databases, Scrapes)
   - Experience in setting up Data Science flows with DAGs like Airflow
   - Extensive time series and regression modelling knowledge
 * Role Responsibilities:
@@ -16,6 +16,9 @@
   - Build efficient data pipelines in order to support modelling infrastructure from the initial ingestion to the parallel computing runs
   - Assist in migrating modelling environment to established ML Cloud Services
   - Assist in pricing renewable power transaction across Europe
+* Personal Preparation
+  * SparkML
+
 
 ## `Week 03`
 * `May13` `Operation System` `BNP` Dead_lock and heap_stack
