@@ -4,3 +4,8 @@
 ![1](static/1.png)
 ![1](static/2.png)
 ![1](static/3.png)
+
+
+### 02.Stack and Heap Memory
+![1](static/5.pic.png)
+![1](static/6.pic.png)
