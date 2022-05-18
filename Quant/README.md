@@ -1,7 +1,15 @@
 # Quant Interview
 
-## [`Refer to the Questions Here`](https://github.com/KangOxford/GARCH-Difussion/tree/main/Quant/Questions)
-## `Goldman Sachs`
+
+## `Week 04`
+* `May.18` PHD in `Stat Oxford`
+
+
+## `Week 03`
+* `May13` `Operation System` `BNP` Dead_lock and heap_stack
+* [`Refer to the Questions Here`](https://github.com/KangOxford/GARCH-Difussion/tree/main/Quant/Questions)
+
+### `Goldman Sachs`
 **Commodities Trading**
 
 * Database: [**SQL**](https://www.w3schools.com/python/python_mysql_getstarted.asp), [**MongoDB**](https://www.runoob.com/mongodb/mongodb-tutorial.html),
@@ -20,10 +28,6 @@
   - Assist in pricing renewable power transaction across Europe
 * Personal Preparation
   * SparkML
-
-
-## `Week 03`
-* `May13` `Operation System` `BNP` Dead_lock and heap_stack
 
 ## `Week 02`
 * `May07` `Algorithm` `SquarePoint` Dynamic Programming, Maximum common subsequence
