@@ -7,7 +7,7 @@ Option valuation formula via GARCH difussion models
 * An Intro to the Volatility: [Volatility Calibration](https://drive.google.com/file/d/1FD1rW8RmYsyk7iJFWje_rl3vFvjBlLqY/view?usp=sharing) and [The Volatility Surface](https://drive.google.com/file/d/1lSwy4hAAgYyKdVZGGuo7b6E1IIsZ8FQh/view?usp=sharing)
 
 ## Week_3
-* converting the AR(1) into AR(2) in the GARCH(1,1)-Means Models. And do the formula conduction.
+* converting the GARCH(1,1)-Means into GARCH(p,q)-Means Model. And do the formula conduction.
 
 ## Week_2
 * [Week2 Slides for the meeting `2020.May.04`](https://www.overleaf.com/1398544588vtxtbhxgkqnw)
