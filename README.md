@@ -10,7 +10,7 @@ Option valuation formula via GARCH difussion models
 * converting the AR(1) into AR(2) in the GARCH(1,1)-Means Models. And do the formula conduction.
 
 ## Week_2
-* [Week2 Slides for the meeting `2020.May.04` with Prof. Zhongmin Qian](https://www.overleaf.com/1398544588vtxtbhxgkqnw)
+* [Week2 Slides for the meeting `2020.May.04`](https://www.overleaf.com/1398544588vtxtbhxgkqnw)
 [![Week2 Slides](https://github.com/KangOxford/GARCH-Difussion/blob/main/static/Snipaste_2022-05-01_00-42-02.png?raw=true)](https://drive.google.com/file/d/1zUyGieV9GwAXO4UW-OPkk6mIV4cPE1wj/view?usp=sharing)
 
 ## Week_1
