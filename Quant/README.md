@@ -2,7 +2,7 @@
 
 
 ## `Week 04`
-* `May.18` PHD in `Stat Oxford`
+* `May.18` PhD in `Stat Oxford`
 
 
 ## `Week 03`
