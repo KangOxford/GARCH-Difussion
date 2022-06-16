@@ -6,3 +6,6 @@
 [Link](https://www.math.unipd.it/~erb/rhodonea.html) to generate it 
 <img width="642" alt="image" src="https://user-images.githubusercontent.com/37290277/174188491-5bf67bf3-6757-40f6-b37e-b9eb01764cae.png">
 
+<img width="310" alt="Snipaste_2022-06-16_22-52-33" src="https://user-images.githubusercontent.com/37290277/174190905-df9be0d5-4105-44f3-8ab1-a501dc0cd5b0.png">
+
+
