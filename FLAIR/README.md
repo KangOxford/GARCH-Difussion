@@ -37,3 +37,6 @@
 
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/37290277/174163082-a6388802-30b3-4faf-99d8-3860b2ee8bc1.png">
 上图是DeepMind的公司图标
+
+### 一些我的想法
+https://github.com/KangOxford/GARCH-Difussion/blob/main/FLAIR/LOGO/README.md
