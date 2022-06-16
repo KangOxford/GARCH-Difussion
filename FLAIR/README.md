@@ -39,4 +39,5 @@
 上图是DeepMind的公司图标
 
 ### 一些我的想法
+我自己设计的图案
 https://github.com/KangOxford/GARCH-Difussion/blob/main/FLAIR/LOGO/README.md
