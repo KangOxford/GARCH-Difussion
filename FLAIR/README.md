@@ -23,6 +23,7 @@
 色为主 B.冷色为主 C.中性色 D.限制颜色【此处请填入您限制的颜色 如：红黑搭配等】 E.无限制 禁忌色【此处请填入您禁忌的颜色 如：绿色】________ 
 8. 喜欢的LOGO图案，可以发予我们，做为设计师审美参考（蛮重要）：
 9. 其他特殊要求：<br>
+最重要的就是要简约大气。<br>
 备注：①以上表格可只填有定性需求的地方；<br>
 ②填写的时候可以复制填写，也可以直接1、2、3....对应作答<br>
   如遇到工作时间联系不上设计师，设计师抄袭，言语冲突等情况请投诉  直接要求联系客服投诉<br>
@@ -33,3 +34,9 @@
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/37290277/174162130-b079dd0e-60fb-48b6-93fa-a79468a85c29.png">
 
 这个是牛津另外一个AI实验室的图标。里面的图形，是高频抖动的数据形成的折线蜷曲而成，其实我们挺喜欢这一点的。
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/37290277/174162949-08907836-b48b-4487-970f-ad3f386365fe.png">
+上图是OpenAI的公司图标
+
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/37290277/174163082-a6388802-30b3-4faf-99d8-3860b2ee8bc1.png">
+上图是DeepMind的公司图标
